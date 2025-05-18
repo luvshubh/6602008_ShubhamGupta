@@ -1,0 +1,24 @@
+A] Explanation: Why median is considered to replace NaN values in column "Age"?
+
+B] Percentage Deaths and Survivors
+
+C] Age of Passengers
+
+D] Number of Passengers Traveling with their Sibling/Spouse
+
+E] Number of Passengers traveling with their Parents/Children
+
+F] Number of Passengers Traveling in Different Socio-Economic Classes
+
+G] Number of Passengers Traveling in Class 1, 2, 3 - Deaths and Survivors
+
+H] Box Plot of Survivors from Pclass v/s Fare
+
+I] Distribution of Survivors with respect to Embarkment
+
+J] Number of Passengers that Died and Survived with respect to the Fare
+
+K] Distribution of Deck (Cabin) and Survived
+
+L] Distribution of Pclass and Cabin Deck
+
